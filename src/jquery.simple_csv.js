@@ -2,9 +2,6 @@
  * jQuery SimpleCsv Plugin v1.0.0
  * https://github.com/criticalbreak5/simple_csv
  *
- * Includes jquery.simple_table.js
- * https://github.com/criticalbreak5/simple_table
- *
  * Copyright 2014 criticalbreak5's
  * Released under the MIT license
  * http://opensource.org/licenses/mit-license.php
