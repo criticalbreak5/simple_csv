@@ -1,0 +1,27 @@
+{
+    "name": "simple_csv",
+    "title": "jQuery SimpleCsv Plugin",
+    "description": "This plug-in parses the csv format data..",
+    "keywords": [
+        "SimpleCsv",
+        "csv",
+        "criticalbreak5"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "criticalbreak5's",
+        "url": "http://criticalbreak5.seesaa.net/"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/mit-license.php"
+        }
+    ],
+    "bugs": "https://github.com/criticalbreak5/simple_csv/issues",
+    "homepage": "https://github.com/criticalbreak5/simple_csv",
+    "docs": "http://criticalbreak5.seesaa.net/category/23224051-4.html",
+    "dependencies": {
+        "jquery": ">=1.11.1"
+    }
+}
